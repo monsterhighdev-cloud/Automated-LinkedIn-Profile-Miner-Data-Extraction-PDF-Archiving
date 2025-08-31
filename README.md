@@ -38,7 +38,7 @@ An automated console gui program that scrapes information procedurally using sel
 
 ## Usage
 
-For proper usage first install selenium and parsel.Open Command Line and type commands given below
+```For proper usage first install selenium and parsel.Open Command Line and type commands given below
 <pre>
 pip install selenium
 pip install parsel
@@ -55,4 +55,6 @@ Your result should be like Screenshot shown above.
 1-You must have python 3.6 pre-installed to use this software.<br>
 2-When you input password in command line , it wont show ( For Privacy )  
 ## If 
-If any issue comes do write in issues column. Thanks!
+If any issue comes do write in issues column.
+Then I'll try to solve this issue in shorten times.
+Thanks! ```
